@@ -6,3 +6,4 @@
 *punkt
 *zwei punkte
 *drei punkte
+*noch ein punkt
